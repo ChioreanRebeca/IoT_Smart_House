@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642587897248",
+    "firebase_url": "https://esp8266-project-ca7ef-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp8266-project-ca7ef",
+    "storage_bucket": "esp8266-project-ca7ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642587897248:android:d78c9554d42ccb89ee88c5",
+        "android_client_info": {
+          "package_name": "com.ledapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzi2fYS23JAvy2mXUiKD5my5Ebh2yV80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
