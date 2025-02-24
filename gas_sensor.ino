@@ -9,14 +9,14 @@
 #include <addons/RTDBHelper.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "heh"
-#define WIFI_PASSWORD "abcd1234"
+#define WIFI_SSID "wifi name"
+#define WIFI_PASSWORD "wifi password"
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyAk0Id6Sg92ELerdqVK-B0t62f3byNb0Kg"
+#define API_KEY "the api key"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://esp8266-project-ca7ef-default-rtdb.europe-west1.firebasedatabase.app/" 
+#define DATABASE_URL "database url" 
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
 #define USER_EMAIL "app@gmail.com"
